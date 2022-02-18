@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "BigInsert.arobject"
+    },
+    {
+      "filename" : "Bottom_bay.arobject"
+    },
+    {
+      "filename" : "Brush.arobject"
+    },
+    {
+      "filename" : "CoffeeGrinder_v3.arobject"
+    },
+    {
+      "filename" : "Scan_10-47-38.arobject"
+    },
+    {
+      "filename" : "SmallInsert.arobject"
+    },
+    {
+      "filename" : "Storage.arobject"
+    },
+    {
+      "filename" : "TopCap_v3.arobject"
+    },
+    {
+      "filename" : "Tray.arobject"
+    }
+  ]
+}
